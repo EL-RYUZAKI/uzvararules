@@ -1,2 +1,1 @@
-# uzvararules
-uzvararules
+# [HL2RP] Uzvara Правила
